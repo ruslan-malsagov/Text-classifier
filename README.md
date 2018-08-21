@@ -5,4 +5,4 @@ This project uses title and description of a good (e.g., posting on a classified
 
 The best baseline model turns out to be SVM (see the crossvalidation chunk in the Notebook) over the TF-IDF with text preprocessing (lowercasing, deleting irrelevant characters, stemming).
 
-The accuracy on the example test dataset is 89%.
+
